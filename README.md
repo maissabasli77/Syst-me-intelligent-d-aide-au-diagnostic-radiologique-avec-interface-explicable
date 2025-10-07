@@ -26,4 +26,6 @@ patients uniques. Chaque image est annotée avec jusqu'à 14 pathologies différ
 pneumonie, atélectasie, cardiomégalie, épanchement pleural, infiltrat, masse, nodule,
 pneumothorax, consolidation, œdème, emphysème, fibrose, épaississement pleural et hernie.
 Les images sont accompagnées de métadonnées cliniques précieuses.
-Lien : https://nihcc.app.box.com/v/ChestXray-NIHCC# Syst-me-intelligent-d-aide-au-diagnostic-radiologique-avec-interface-explicable
+Lien : https://nihcc.app.box.com/v/ChestXray-NIHCC# Syst-me-intelligent-d-aide-au-diagnostic-radiologique-avec-interface-explicable<img width="1271" height="787" alt="image" src="https://github.com/user-attachments/assets/43142c82-a76b-429a-af9f-08c235c675c6" />
+<img width="1212" height="400" alt="image" src="https://github.com/user-attachments/assets/3b20dfcd-ec22-484f-b15a-8f50bcf5966e" />
+
