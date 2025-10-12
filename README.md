@@ -1,8 +1,6 @@
-Système intelligent d'aide au diagnostic radiologique avec
-interface explicable
-Proposé par :
-Pr. Hela LTIFI
-Contexte et problématique
+Système intelligent d'aide au diagnostic radiologique avec interface explicable
+
+Contexte et problématique : 
 Dans le domaine médical moderne, l'analyse des images radiologiques représente un défi
 majeur pour les professionnels de santé. Face à l'augmentation du volume d'examens et à la
 complexité croissante des diagnostics, il devient essentiel de développer des outils d'assistance
